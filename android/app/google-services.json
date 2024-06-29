@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825413902810",
+    "project_id": "task-orga",
+    "storage_bucket": "task-orga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825413902810:android:d0459693e253ee0da1a0e3",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSfSodVWKlYie3wmend-k0N42d35SdgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
